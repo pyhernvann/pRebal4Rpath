@@ -1,0 +1,55 @@
+group,abb,class
+Seabirds - Divers,Birds Div,Homeotherm
+Seabirds - Surface feeders,Birds Surf,Homeotherm
+Baleen whales,Whales,Homeotherm
+Toothed cetaceans / Seals,Toothed Mamm,Homeotherm
+Pelagic sharks,Pel Sh,Finfish
+Piscivorous dem. Elasmobranchs,Pisc Elsam,Finfish
+Benthivorous dem. elasmobranchs,Benth Elasm,Finfish
+Sea bass,SBss,Finfish
+Anglerfish adult,Ang ad,Finfish
+Anglerfish juvenile,And juv,Finfish
+Hake adult,Hk ad,Finfish
+Hake juvenile,Hk juv,Finfish
+Cod adult,Cod ad,Finfish
+Cod juvenile,Cod juv,Finfish
+Whiting,Whg,Finfish
+Haddock,Had,Finfish
+Pouts,Pouts,Finfish
+Megrim,Meg,Finfish
+Sole,Sol,Finfish
+Plaice,Pl,Finfish
+Piscivorous demersal fish,Pisc b Fish,Finfish
+Epibenthivorous demersal fish,Epi b Fish,Finfish
+Endobenthivorous demersal fish,Endo b Fish,Finfish
+Suprabenthivorous demersal fish,Supra b Fish,Finfish
+Small benthivorous demersal fish,Small b Fish,Finfish
+Mackerel,Mck,Finfish
+Horse mackerel,Hmck,Finfish
+Boarfish,Boar,Finfish
+Sprat,Spr,Finfish
+Blue whiting,BW,Finfish
+Pilchard,Sar,Finfish
+Herring,Her,Finfish
+Pelagic - Large,PelL,Finfish
+Pelagic - Medium,PelM,Finfish
+Squids,Sq,Invertebrate
+Benthic cephalopods,Ceph,Invertebrate
+Commercial crustaceans,Comm Crust,Invertebrate
+Nephrops,Neph,Invertebrate
+Commercial bivalves,Biv,Invertebrate
+Shrimps,Shr,Invertebrate
+Carnivores/Necrophages,CarnNec,Invertebrate
+Suspension/Surface detritus Feeders,SSDF,Invertebrate
+Subsurface deposit feeders,SubSDF,Invertebrate
+Suprabenthos,Supra,Invertebrate
+Benthic meiofauna,Meio,Invertebrate
+Macrozooplankton,MacroZoo,Invertebrate
+Mesozooplankton - Large,MesoZooL,Invertebrate
+Mesozooplankton - Small,MesoZooS,Invertebrate
+Microzooplankton,MicroZoo,Invertebrate
+Bacteria,Bact,Bacteria
+Phytoplankton - Large,PhytoL,Primary producer
+Phytoplankton - Small,PhytoS,Primary producer
+Discards,Disc,Detritus
+Detritus,Det,Detritus
